@@ -6,7 +6,7 @@ function About() {
       <section className="my-5 d-flex flex-wrap justify-content-around">
         <img
           id="avatar"
-          src={require("../../assets/images/IMG_2964.jpeg").src}
+          src={require("../../assets/images/IMG_2964.jpeg")}
           alt="Placeholder avatar"
           className="m-1"
         ></img>
