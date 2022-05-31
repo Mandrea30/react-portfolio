@@ -5,25 +5,24 @@ body, #root, .full {
   min-height: 100vh;
   display: flex;
   flex-direction: column; 
-  background-color: rgb(241, 246, 247);
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(234, 229, 236);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-/* body {
-  height: 100%;
-  background-color: #D8CFAF;
-} */
 
 nav, footer {
   background-color: transparent;
 }
 
+nav, footer:hover {
+  text-decoration: whitesmoke;
+  background-color: darkgray;
+}
+
 footer{
   padding: 5px;
-  /* margin-top: auto; */
+
 }
-/* nav {
-  background-color: #7D8CA3;
-} */
+
 
 .point{
   cursor: pointer;
@@ -36,7 +35,7 @@ footer{
 }
 
 #resumeImg {
-  /* hit this with some media queries */
+  
   max-height: 5vw;
 } 
 
@@ -45,7 +44,7 @@ footer{
 }
 
 #contactBtn {
-  background-color: #98ec86
+  background-color: #8658b9,
 }
 
 .my-border{
