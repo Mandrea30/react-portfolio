@@ -6,7 +6,7 @@ function Portfolio() {
     {
       name: "Race of The Year",
       id: "race-year",
-      description: "which provides registration-management, runner-support-products and marathon-information. Participants are able to sign-up, log-in & log-out buy products.",
+      description: "Race of the year is an event application that provides registration-management, runner-support-products and marathon-information. Participants are able to sign-up, log-in & log-out buy products.",
       liveURL: "https://ancient-sierra-07886.herokuapp.com/",
       gitHub: "https://github.com/Mandrea30/race-of-the-year"
     },
