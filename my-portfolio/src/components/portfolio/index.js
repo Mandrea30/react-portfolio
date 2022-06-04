@@ -4,6 +4,14 @@ function Portfolio() {
   const projects = [
 
     {
+      name: "Race of The Year",
+      id: "race-year",
+      description: "which provides registration-management, runner-support-products and marathon-information. Participants are able to sign-up, log-in & log-out buy products.",
+      liveURL: "https://ancient-sierra-07886.herokuapp.com/",
+      gitHub: "https://github.com/Mandrea30/race-of-the-year"
+    },
+
+    {
       name: "Popcorn Time",
       id: "popcorn_time",
       description: "Popcorn Time let's the user research movie titles and ratings before purchasing tickets to the theatre or purchasing it online .",
