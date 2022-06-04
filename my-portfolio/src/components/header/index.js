@@ -12,9 +12,7 @@ if the current category does not match the categoryname then append text-muted c
 function Header(props) {
   const { categories = [], currentCat, changeCat } = props;
   console.log(categories);
-  // function selected (i) {
-  //   console.log(categories[i].name )
-  // }
+  
 
   return (
     <div className="sticky-top">
