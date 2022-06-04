@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.d544fb67.css",
-    "main.js": "/react-portfolio/static/js/main.f0383acb.js",
+    "main.js": "/react-portfolio/static/js/main.ab5d2a9b.js",
     "static/js/787.128fc6e9.chunk.js": "/react-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/IMG_2964.jpeg": "/react-portfolio/static/media/IMG_2964.c5e27d892e0c8099c009.jpeg",
     "static/media/popcorn_time.png": "/react-portfolio/static/media/popcorn_time.3bcdb46e31449299b0c7.png",
@@ -9,14 +9,15 @@
     "static/media/Rodriguez-Resume.docx": "/react-portfolio/static/media/Rodriguez-Resume.f920b9f6bf7669ed2a41.docx",
     "static/media/weather_dashboard.png": "/react-portfolio/static/media/weather_dashboard.ca8e382754c564dea8aa.png",
     "static/media/find_it.png": "/react-portfolio/static/media/find_it.a9929af463a85b9a78a7.png",
+    "static/media/race-year.png": "/react-portfolio/static/media/race-year.b8d9283dabd964309113.png",
     "static/media/password_generator.png": "/react-portfolio/static/media/password_generator.1154a0276668730b77de.png",
     "index.html": "/react-portfolio/index.html",
     "main.d544fb67.css.map": "/react-portfolio/static/css/main.d544fb67.css.map",
-    "main.f0383acb.js.map": "/react-portfolio/static/js/main.f0383acb.js.map",
+    "main.ab5d2a9b.js.map": "/react-portfolio/static/js/main.ab5d2a9b.js.map",
     "787.128fc6e9.chunk.js.map": "/react-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d544fb67.css",
-    "static/js/main.f0383acb.js"
+    "static/js/main.ab5d2a9b.js"
   ]
 }
